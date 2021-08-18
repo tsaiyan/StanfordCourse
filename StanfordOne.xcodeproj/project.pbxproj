@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9ABF26CA26CD25D2003B11B2 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ABF26C926CD25D2003B11B2 /* Card.swift */; };
+		9ABF26CC26CD2618003B11B2 /* ConcetrationGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ABF26CB26CD2618003B11B2 /* ConcetrationGame.swift */; };
 		9ADF6CCA26CD11120014CCA1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADF6CC926CD11120014CCA1 /* AppDelegate.swift */; };
 		9ADF6CCC26CD11120014CCA1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADF6CCB26CD11120014CCA1 /* SceneDelegate.swift */; };
 		9ADF6CCE26CD11120014CCA1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADF6CCD26CD11120014CCA1 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9ABF26C926CD25D2003B11B2 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		9ABF26CB26CD2618003B11B2 /* ConcetrationGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcetrationGame.swift; sourceTree = "<group>"; };
 		9ADF6CC626CD11120014CCA1 /* StanfordOne.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = StanfordOne.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9ADF6CC926CD11120014CCA1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9ADF6CCB26CD11120014CCA1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -37,11 +41,23 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9ABF26CD26CD46BC003B11B2 /* hide */ = {
+			isa = PBXGroup;
+			children = (
+				9ADF6CC726CD11120014CCA1 /* Products */,
+				9ADF6CC926CD11120014CCA1 /* AppDelegate.swift */,
+				9ADF6CD226CD11130014CCA1 /* Assets.xcassets */,
+				9ADF6CD426CD11130014CCA1 /* LaunchScreen.storyboard */,
+				9ADF6CD726CD11130014CCA1 /* Info.plist */,
+				9ADF6CCB26CD11120014CCA1 /* SceneDelegate.swift */,
+			);
+			name = hide;
+			sourceTree = "<group>";
+		};
 		9ADF6CBD26CD11120014CCA1 = {
 			isa = PBXGroup;
 			children = (
 				9ADF6CC826CD11120014CCA1 /* StanfordOne */,
-				9ADF6CC726CD11120014CCA1 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,18 +67,17 @@
 				9ADF6CC626CD11120014CCA1 /* StanfordOne.app */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		9ADF6CC826CD11120014CCA1 /* StanfordOne */ = {
 			isa = PBXGroup;
 			children = (
-				9ADF6CC926CD11120014CCA1 /* AppDelegate.swift */,
-				9ADF6CCB26CD11120014CCA1 /* SceneDelegate.swift */,
 				9ADF6CCD26CD11120014CCA1 /* ViewController.swift */,
+				9ABF26C926CD25D2003B11B2 /* Card.swift */,
+				9ABF26CB26CD2618003B11B2 /* ConcetrationGame.swift */,
 				9ADF6CCF26CD11120014CCA1 /* Main.storyboard */,
-				9ADF6CD226CD11130014CCA1 /* Assets.xcassets */,
-				9ADF6CD426CD11130014CCA1 /* LaunchScreen.storyboard */,
-				9ADF6CD726CD11130014CCA1 /* Info.plist */,
+				9ABF26CD26CD46BC003B11B2 /* hide */,
 			);
 			path = StanfordOne;
 			sourceTree = "<group>";
@@ -138,8 +153,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				9ADF6CCE26CD11120014CCA1 /* ViewController.swift in Sources */,
+				9ABF26CC26CD2618003B11B2 /* ConcetrationGame.swift in Sources */,
 				9ADF6CCA26CD11120014CCA1 /* AppDelegate.swift in Sources */,
 				9ADF6CCC26CD11120014CCA1 /* SceneDelegate.swift in Sources */,
+				9ABF26CA26CD25D2003B11B2 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

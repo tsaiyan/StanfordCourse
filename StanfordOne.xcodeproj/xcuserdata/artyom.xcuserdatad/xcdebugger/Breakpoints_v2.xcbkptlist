@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "868FB6DF-6A12-42C7-89C7-4518E351AA80"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAA9C228-E24E-44FC-AC88-1BC1A4DAAC69"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StanfordOne/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "resetButton(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FC02905F-D4F4-4255-BB50-0C15532330AB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StanfordOne/ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ConcentrationGame"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D1085B1E-70DE-43A7-B485-E413B51CB0C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StanfordOne/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "D1085B1E-70DE-43A7-B485-E413B51CB0C0 - a42c25cb25cfa18f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StanfordOne.ViewController.game.getter : StanfordOne.ConcentrationGame"
+                  moduleName = "StanfordOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/StanfordCourse/StanfordOne/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "225">
+               </Location>
+               <Location
+                  uuid = "D1085B1E-70DE-43A7-B485-E413B51CB0C0 - 281686c94f746283"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StanfordOne.ViewController.game.setter : StanfordOne.ConcentrationGame"
+                  moduleName = "StanfordOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/StanfordCourse/StanfordOne/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "148">
+               </Location>
+               <Location
+                  uuid = "D1085B1E-70DE-43A7-B485-E413B51CB0C0 - 3bce301b8378431a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StanfordOne.ViewController.game.modify : StanfordOne.ConcentrationGame"
+                  moduleName = "StanfordOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/StanfordCourse/StanfordOne/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "D1085B1E-70DE-43A7-B485-E413B51CB0C0 - e35191d254403dd1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StanfordOne.ViewController.game.modify : StanfordOne.ConcentrationGame with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "StanfordOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/StanfordCourse/StanfordOne/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "D1085B1E-70DE-43A7-B485-E413B51CB0C0 - 1a115d50a27ad4a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StanfordOne.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; StanfordOne.ViewController"
+                  moduleName = "StanfordOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/StanfordCourse/StanfordOne/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "193">
+               </Location>
+               <Location
+                  uuid = "D1085B1E-70DE-43A7-B485-E413B51CB0C0 - c230494180355383"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "StanfordOne.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;StanfordOne.ViewController&gt;"
+                  moduleName = "StanfordOne"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/artyom/StanfordCourse/StanfordOne/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "149">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "24C58DAE-A6BC-442F-826F-F4D4E10A1BB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "StanfordOne/ConcetrationGame.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "init(countPairedCard:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
