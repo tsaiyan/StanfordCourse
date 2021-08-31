@@ -31,7 +31,7 @@ class ViewController: UIViewController {
 			let card = game.cards[index]
 			if card.isFaceUp {
 				button.setTitle(emojiIdentifier(for: card), for: .normal)
-				button.backgroundColor = #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1)
+				button.backgroundColor = #colorLiteral(red: 0.9999960065, green: 1, blue: 1, alpha: 1)
 			} else {
 				button.setTitle("", for: .normal)
 				button.backgroundColor = card.isMatched ? #colorLiteral(red: 1, green: 1, blue: 1, alpha: 1) : #colorLiteral(red: 0, green: 0.4790502191, blue: 0.9205970764, alpha: 1)
